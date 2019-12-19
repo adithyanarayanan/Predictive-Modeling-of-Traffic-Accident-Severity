@@ -1,6 +1,6 @@
 README FILE FOR GROUP 7 DATA ANALYTICS AND PREDICTIVE MODELING
 
-The "US Accidents May19" file is the mai dataset we use. 
+The "US Accidents May19" file is the main dataset we use. 
 
 1. Please note that the project folder shared with you has four subfolders. 
    Our analysis was performed over four states. You will find each folder corresponding to a state we analyzed. 
